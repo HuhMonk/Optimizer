@@ -12,4 +12,4 @@ which optimizes at runtime by settins max fps & other
 
 ## [Github](https://github.com/HuhMonk/Optimizer/tree/main)
 
--# not guaranteed to make your game run smooth but might fix some issues
+not guaranteed to make your game run smooth but might fix some issues
