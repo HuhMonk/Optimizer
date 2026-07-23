@@ -9,5 +9,6 @@ Runtime Optimizer
 which optimizes at runtime by settins max fps & other
 
 ## [Github](https://github.com/HuhMonk/Optimizer/tree/main)
+## [Github Download](https://github.com/HuhMonk/Optimizer/raw/main/OptimizerUpdate.unitypackage)
 
 not guaranteed to make your game run smooth but might fix some issues
